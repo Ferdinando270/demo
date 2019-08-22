@@ -1,6 +1,0 @@
-Linea 1
-Linea 2
-Linea
-nueva linea
-
-ESTO ESTA DESTINADO A CAUSAR PROBLEMAS
